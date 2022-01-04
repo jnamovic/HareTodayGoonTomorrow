@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 4c9c1d432d9d2f44a99c0d41aa154774
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bn_b_baseneck
+    100002: bn_b_cheeks
+    100004: bn_b_chest
+    100006: bn_b_head
+    100008: bn_b_head_end
+    100010: bn_b_l_clavicle
+    100012: bn_b_l_ear_base
+    100014: bn_b_l_ear_bend
+    100016: bn_b_l_ear_end
+    100018: bn_b_l_eye
+    100020: bn_b_l_eye_end
+    100022: bn_b_l_eyewhites
+    100024: bn_b_l_femur
+    100026: bn_b_l_foot
+    100028: bn_b_l_foot_end
+    100030: bn_b_l_forearm
+    100032: bn_b_l_hand
+    100034: bn_b_l_hand_end
+    100036: bn_b_l_humerus
+    100038: bn_b_l_pupil
+    100040: bn_b_l_tibia
+    100042: bn_b_nose
+    100044: bn_b_nose_end
+    100046: bn_b_pelvis
+    100048: bn_b_r_clavicle
+    100050: bn_b_r_ear_base
+    100052: bn_b_r_ear_bend
+    100054: bn_b_r_ear_end
+    100056: bn_b_r_eye
+    100058: bn_b_r_eye_end
+    100060: bn_b_r_eyewhites
+    100062: bn_b_r_femur
+    100064: bn_b_r_foot
+    100066: bn_b_r_foot_end
+    100068: bn_b_r_forearm
+    100070: bn_b_r_hand
+    100072: bn_b_r_hand_end
+    100074: bn_b_r_humerus
+    100076: bn_b_r_pupil
+    100078: bn_b_r_tail
+    100080: bn_b_r_tail_end
+    100082: bn_b_r_tibia
+    100084: bn_b_spineA
+    100086: bn_b_spineB
+    100088: bn_b_spineC
+    100090: //RootNode
+    100092: hammer
+    100094: l_forearm
+    100096: l_hand
+    100098: l_humerus
+    100100: pupil
+    100102: pupil 1
+    100104: r_forearm
+    100106: r_hand
+    100108: r_humerus
+    100110: rab_body
+    100112: rab_femur
+    100114: rab_head
+    100116: rab_l_ankle
+    100118: rab_l_arm
+    100120: rab_l_eye
+    100122: rab_l_foot
+    100124: rab_r_ankle
+    100126: rab_r_arm
+    100128: rab_r_eye
+    100130: rab_r_foot
+    100132: rab_skull
+    100134: rabbit_geo
+    100136: whites
+    100138: whites 1
+    400000: bn_b_baseneck
+    400002: bn_b_cheeks
+    400004: bn_b_chest
+    400006: bn_b_head
+    400008: bn_b_head_end
+    400010: bn_b_l_clavicle
+    400012: bn_b_l_ear_base
+    400014: bn_b_l_ear_bend
+    400016: bn_b_l_ear_end
+    400018: bn_b_l_eye
+    400020: bn_b_l_eye_end
+    400022: bn_b_l_eyewhites
+    400024: bn_b_l_femur
+    400026: bn_b_l_foot
+    400028: bn_b_l_foot_end
+    400030: bn_b_l_forearm
+    400032: bn_b_l_hand
+    400034: bn_b_l_hand_end
+    400036: bn_b_l_humerus
+    400038: bn_b_l_pupil
+    400040: bn_b_l_tibia
+    400042: bn_b_nose
+    400044: bn_b_nose_end
+    400046: bn_b_pelvis
+    400048: bn_b_r_clavicle
+    400050: bn_b_r_ear_base
+    400052: bn_b_r_ear_bend
+    400054: bn_b_r_ear_end
+    400056: bn_b_r_eye
+    400058: bn_b_r_eye_end
+    400060: bn_b_r_eyewhites
+    400062: bn_b_r_femur
+    400064: bn_b_r_foot
+    400066: bn_b_r_foot_end
+    400068: bn_b_r_forearm
+    400070: bn_b_r_hand
+    400072: bn_b_r_hand_end
+    400074: bn_b_r_humerus
+    400076: bn_b_r_pupil
+    400078: bn_b_r_tail
+    400080: bn_b_r_tail_end
+    400082: bn_b_r_tibia
+    400084: bn_b_spineA
+    400086: bn_b_spineB
+    400088: bn_b_spineC
+    400090: //RootNode
+    400092: hammer
+    400094: l_forearm
+    400096: l_hand
+    400098: l_humerus
+    400100: pupil
+    400102: pupil 1
+    400104: r_forearm
+    400106: r_hand
+    400108: r_humerus
+    400110: rab_body
+    400112: rab_femur
+    400114: rab_head
+    400116: rab_l_ankle
+    400118: rab_l_arm
+    400120: rab_l_eye
+    400122: rab_l_foot
+    400124: rab_r_ankle
+    400126: rab_r_arm
+    400128: rab_r_eye
+    400130: rab_r_foot
+    400132: rab_skull
+    400134: rabbit_geo
+    400136: whites
+    400138: whites 1
+    2100000: lambert1
+    2100002: white
+    2100004: blackq
+    2300000: hammer
+    3300000: hammer
+    4300000: rab_r_ankle
+    4300002: rab_l_ankle
+    4300004: rab_r_foot
+    4300006: rab_l_foot
+    4300008: whites
+    4300010: pupil
+    4300012: whites
+    4300014: pupil
+    4300016: rab_skull
+    4300018: rab_femur
+    4300020: r_humerus
+    4300022: r_forearm
+    4300024: r_hand
+    4300026: l_humerus
+    4300028: l_forearm
+    4300030: l_hand
+    4300032: rab_body
+    4300034: hammer
+    9500000: //RootNode
+    13700000: l_forearm
+    13700002: l_hand
+    13700004: l_humerus
+    13700006: pupil
+    13700008: pupil 1
+    13700010: r_forearm
+    13700012: r_hand
+    13700014: r_humerus
+    13700016: rab_body
+    13700018: rab_femur
+    13700020: rab_l_ankle
+    13700022: rab_l_foot
+    13700024: rab_r_ankle
+    13700026: rab_r_foot
+    13700028: rab_skull
+    13700030: whites
+    13700032: whites 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

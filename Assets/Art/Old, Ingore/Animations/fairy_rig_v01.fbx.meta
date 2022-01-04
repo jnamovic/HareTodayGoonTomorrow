@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: ae9d18b59b4489d4897da914d5d4f3c1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bn_f_baseneck
+    100002: bn_f_chest
+    100004: bn_f_head
+    100006: bn_f_head_end
+    100008: bn_f_l_arm
+    100010: bn_f_l_bot_wing
+    100012: bn_f_l_bot_wing_end
+    100014: bn_f_l_bot_wingbase
+    100016: bn_f_l_clav
+    100018: bn_f_l_femur
+    100020: bn_f_l_foot
+    100022: bn_f_l_foot_end
+    100024: bn_f_l_hand
+    100026: bn_f_l_hand_end
+    100028: bn_f_l_top_wing
+    100030: bn_f_l_top_wing_end
+    100032: bn_f_l_top_wingbase
+    100034: bn_f_neck
+    100036: bn_f_pelvis
+    100038: bn_f_r_arm
+    100040: bn_f_r_bot_wing
+    100042: bn_f_r_bot_wing_end
+    100044: bn_f_r_bot_wingbase
+    100046: bn_f_r_clav
+    100048: bn_f_r_femur
+    100050: bn_f_r_foot
+    100052: bn_f_r_foot_end
+    100054: bn_f_r_hand
+    100056: bn_f_r_hand_end
+    100058: bn_f_r_top_wing
+    100060: bn_f_r_top_wing_end
+    100062: bn_f_r_top_wingbase
+    100064: bn_f_waist
+    100066: cane
+    100068: f_chest
+    100070: f_head
+    100072: f_l_arm
+    100074: f_l_foot
+    100076: f_l_hand
+    100078: f_l_leg
+    100080: f_r_arm
+    100082: f_r_foot
+    100084: f_r_hand
+    100086: f_r_leg
+    100088: f_skirt
+    100090: f_waist
+    100092: fairy_geo
+    100094: //RootNode
+    100096: l_bot_wing
+    100098: l_top_wing
+    100100: pCube20
+    100102: pCube20 1
+    100104: pCube20 2
+    100106: pCube20 3
+    100108: pCube21
+    100110: pCube21 1
+    100112: pCube21 2
+    100114: pCube21 3
+    100116: pCube22
+    100118: pCube22 1
+    100120: pCube22 2
+    100122: pCube22 3
+    100124: pCube23
+    100126: pCube23 1
+    100128: pCube23 2
+    100130: pCube23 3
+    100132: r_bot_wing
+    100134: r_top_wing
+    400000: bn_f_baseneck
+    400002: bn_f_chest
+    400004: bn_f_head
+    400006: bn_f_head_end
+    400008: bn_f_l_arm
+    400010: bn_f_l_bot_wing
+    400012: bn_f_l_bot_wing_end
+    400014: bn_f_l_bot_wingbase
+    400016: bn_f_l_clav
+    400018: bn_f_l_femur
+    400020: bn_f_l_foot
+    400022: bn_f_l_foot_end
+    400024: bn_f_l_hand
+    400026: bn_f_l_hand_end
+    400028: bn_f_l_top_wing
+    400030: bn_f_l_top_wing_end
+    400032: bn_f_l_top_wingbase
+    400034: bn_f_neck
+    400036: bn_f_pelvis
+    400038: bn_f_r_arm
+    400040: bn_f_r_bot_wing
+    400042: bn_f_r_bot_wing_end
+    400044: bn_f_r_bot_wingbase
+    400046: bn_f_r_clav
+    400048: bn_f_r_femur
+    400050: bn_f_r_foot
+    400052: bn_f_r_foot_end
+    400054: bn_f_r_hand
+    400056: bn_f_r_hand_end
+    400058: bn_f_r_top_wing
+    400060: bn_f_r_top_wing_end
+    400062: bn_f_r_top_wingbase
+    400064: bn_f_waist
+    400066: cane
+    400068: f_chest
+    400070: f_head
+    400072: f_l_arm
+    400074: f_l_foot
+    400076: f_l_hand
+    400078: f_l_leg
+    400080: f_r_arm
+    400082: f_r_foot
+    400084: f_r_hand
+    400086: f_r_leg
+    400088: f_skirt
+    400090: f_waist
+    400092: fairy_geo
+    400094: //RootNode
+    400096: l_bot_wing
+    400098: l_top_wing
+    400100: pCube20
+    400102: pCube20 1
+    400104: pCube20 2
+    400106: pCube20 3
+    400108: pCube21
+    400110: pCube21 1
+    400112: pCube21 2
+    400114: pCube21 3
+    400116: pCube22
+    400118: pCube22 1
+    400120: pCube22 2
+    400122: pCube22 3
+    400124: pCube23
+    400126: pCube23 1
+    400128: pCube23 2
+    400130: pCube23 3
+    400132: r_bot_wing
+    400134: r_top_wing
+    2100000: lambert1
+    2300000: cane
+    3300000: cane
+    4300000: f_chest
+    4300002: f_waist
+    4300004: f_head
+    4300006: f_skirt
+    4300008: f_l_leg
+    4300010: f_r_leg
+    4300012: f_l_foot
+    4300014: f_r_foot
+    4300016: f_r_arm
+    4300018: f_r_hand
+    4300020: f_l_arm
+    4300022: f_l_hand
+    4300024: pCube20
+    4300026: pCube21
+    4300028: pCube22
+    4300030: pCube23
+    4300032: pCube20
+    4300034: pCube21
+    4300036: pCube22
+    4300038: pCube23
+    4300040: pCube20
+    4300042: pCube21
+    4300044: pCube22
+    4300046: pCube23
+    4300048: pCube20
+    4300050: pCube21
+    4300052: pCube22
+    4300054: pCube23
+    4300056: cane
+    9500000: //RootNode
+    13700000: f_chest
+    13700002: f_head
+    13700004: f_l_arm
+    13700006: f_l_foot
+    13700008: f_l_hand
+    13700010: f_l_leg
+    13700012: f_r_arm
+    13700014: f_r_foot
+    13700016: f_r_hand
+    13700018: f_r_leg
+    13700020: f_skirt
+    13700022: f_waist
+    13700024: pCube20
+    13700026: pCube20 1
+    13700028: pCube20 2
+    13700030: pCube20 3
+    13700032: pCube21
+    13700034: pCube21 1
+    13700036: pCube21 2
+    13700038: pCube21 3
+    13700040: pCube22
+    13700042: pCube22 1
+    13700044: pCube22 2
+    13700046: pCube22 3
+    13700048: pCube23
+    13700050: pCube23 1
+    13700052: pCube23 2
+    13700054: pCube23 3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
